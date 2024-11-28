@@ -20,25 +20,32 @@ Soy un apasionado desarrollador de software y sistemas, con 20 años y un camino
 Durante este tiempo, he trabajado en diversos proyectos, tanto como Front-end Developer como Back-end Developer, lo que me ha permitido desarrollar una visión integral en el desarrollo de aplicaciones modernas. 💻
 
 ## 🚀 Habilidades y Tecnologías
+
 Front-end: ⚛️Angular, #️⃣TypeScript, </> HTML5, 🎨CSS3, ｡🇯‌🇸‌ JavaScript.
 
 Back-end: 🦠Node.js y 🐘PHP
 
 Bases de Datos: 🐬MySQL
 
-Otras herramientas: 🌱Git, 🔥Firebase, ✒️Figma
+Otras herramientas: 🌱Git, 🔥Firebase, ✒️Figma, Adobe (Premiere | After Effects | Ilustrator | Photshop)
 
 Lenguajes adicionales: 🧊 C# (Unity), 🐍 Python, 📅 VB.NET.
 
 ## 📂 Proyectos Destacados
-# KipinToch 
+### KipinToch 
 > Diseño de UX/UI de varias partes del sistema, crear una máscara, crear y modificar estadisticas
 ![https://github.com/Bussetto](./UIUXkipin.png)
-# Vertex Arena 
+### Vertex Arena 
 > Proyecto corto con una participacion en la parte del SEO y UI de la pagina, más funcionalidades de compra
 > ![https://github.com/Vertex-Arena](https://cdn.discordapp.com/attachments/1249736635411730432/1297736301923274793/banner.gif?ex=67491b9d&is=6747ca1d&hm=1ca875c73034d0c323426d16ff1f5839d614c6102f213a7228481c74aad58ef2&)
 
-Además, expando mis habilidades de diseño y de imaginacion creando contenido en YouTube. Mi misión es disfrutar y hacer reir a los demás con mi contenido.
+### Quokka Software
+> Proyecto de realizacion de una Start-Up con un MVP enfocado en realidad aumentada y modelado 3D de indumentaria
+> ![https://github.com/Quokka-Software](./wearmeleon_mvp.png)
+
+# 🛑 Mis Ultimos Videos
+
+### Además, expando mis habilidades de diseño y de imaginacion creando contenido en YouTube. Mi misión es disfrutar y hacer reir a los demás con mi contenido.
 
 <a href='https://youtu.be/uBhXVgKn5oU?si=TIj2rVGyI0hdyd54' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uBhXVgKn5oU/mqdefault.jpg' alt='El camino a la final de la COPA VALENCARC' />
@@ -59,10 +66,16 @@ Además, expando mis habilidades de diseño y de imaginacion creando contenido e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Damian_Bussetto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dami%C3%A1n-bussetto-791a62220/)
 
 
-🌱 Qué estoy aprendiendo ahora
-Actualmente estoy explorando [tecnología o stack nuevo] y trabajando en proyectos relacionados con [tema relevante, como IA, blockchain, etc.]. Siempre busco mejorar y mantenerme al día con las últimas tendencias del desarrollo. 📖
+## 🌱 ¿Qué estoy aprendiendo ahora?
 
+Actualmente estoy explorando el desarrollo mobile y trabajando en proyectos relacionados con implementar chats con IA. 
+
+Siempre busco mejorar y mantenerme al día con las últimas tendencias del desarrollo. 📖
 ¡Gracias por pasar por mi perfil!
-💌 ¿Quieres colaborar? Escríbeme a tuemail@example.com o mándame un mensaje en LinkedIn.
+
+💌 ¿Quieres colaborar? Escríbeme a damianbusse@hotmail.com o mándame un mensaje en [LinkedIn](https://www.linkedin.com/in/dami%C3%A1n-bussetto-791a62220/)
+
 
 ✨ Keep coding and stay curious! ✨
+
+Hecho con ❤️ por Damián
