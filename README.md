@@ -5,7 +5,7 @@
      <div align="center">
      
   [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg-Dazq1QxVMuH2dnCTnWCQ?style=social)](https://youtube.com/@Bussettinho?sub_confirmation=1)
-  [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
+  [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/bussettinho)
   [![Discord](https://img.shields.io/discord/1035274384195203092?style=social&label=Discord&logo=discord)](https://discord.gg/hyywyXTgde)
   ![GitHub Followers](https://img.shields.io/github/followers/Bussetto?style=social)
         
