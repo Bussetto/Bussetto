@@ -73,7 +73,7 @@ Actualmente estoy explorando el desarrollo mobile y trabajando en proyectos rela
 Siempre busco mejorar y mantenerme al día con las últimas tendencias del desarrollo. 📖
 ¡Gracias por pasar por mi perfil!
 
-💌 ¿Quieres colaborar? Escríbeme a damianbusse@hotmail.com o mándame un mensaje en [LinkedIn](https://www.linkedin.com/in/dami%C3%A1n-bussetto-791a62220/)
+💌 ¿Quieres colaborar? Escríbeme a damianbusse04@gmail.com o mándame un mensaje en [LinkedIn](https://www.linkedin.com/in/dami%C3%A1n-bussetto-791a62220/)
 
 
 ✨ Keep coding and stay curious! ✨
